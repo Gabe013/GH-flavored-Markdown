@@ -2,7 +2,7 @@
 
 If you want **to load it directly**, it's best to *just drag it into the GH editor* or copy and paste:
 
-![Like so, this is some Elliot dude/kid](https://github.com/desilvavelasquez123/markdown-book/assets/163108056/170f018d-faaf-436c-9eb5-1b73c58c1bcf)
+![Like so, this is some Elliot dude/kid](https://raw.githubusercontent.com/Gabe013/GH-flavored-Markdown/refs/heads/main/actor-elliot.webp)
 
 Or, you can load it locally in your repo to *skip the assets folder* and stuff as so `![](filename.ext)`:
 
